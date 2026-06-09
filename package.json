@@ -1,5 +1,5 @@
 {
-  "name": "bruno-simon-folio-2025",
+  "name": "Dandy-folio",
   "version": "0.0.0",
   "main": "index.js",
   "type": "module",
@@ -41,5 +41,10 @@
     "vite-plugin-restart": "^0.4.1",
     "vite-plugin-top-level-await": "^1.6.0",
     "vite-plugin-wasm": "^3.5.0"
+  },
+  "overrides": {
+    "vite-plugin-restart": {
+      "vite": "$vite"
+    }
   }
 }
