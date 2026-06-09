@@ -4,7 +4,7 @@ export default [
     { name: 'Youtube', url: 'https://www.youtube.com/', align: 'right' },
     { name: 'Mail', url: 'mailto:dandyarnaldo65@gmail.com', align: 'right' },
     { name: 'Twitch', url: 'https://www.twitch.tv/', align: 'right' },
-    { name: 'GitHub', url: 'https://github.com/Doxkuy', align: 'right' },
+    { name: 'GitHub', url: 'https://github.com/', align: 'right' },
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/dandi-arnaldo-9aa1612a2/', align: 'left' },
     { name: 'Discord', modal: 'discord', align: 'left' },
 ]
